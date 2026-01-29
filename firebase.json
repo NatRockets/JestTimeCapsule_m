@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"ios":{"default":{"projectId":"jest-time-capsule","appId":"1:543132882147:ios:91b228b8ffee8a8f63a1d6","uploadDebugSymbols":false,"fileOutput":"ios/Runner/GoogleService-Info.plist"}},"dart":{"lib/firebase_options.dart":{"projectId":"jest-time-capsule","configurations":{"ios":"1:543132882147:ios:91b228b8ffee8a8f63a1d6"}}}}}}
